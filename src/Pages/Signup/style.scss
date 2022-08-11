@@ -1,0 +1,22 @@
+.signupContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-direction: wrap;
+  width: 300px;
+}
+
+.inputContainer {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  border: none;
+  flex-direction: column;
+}
+
+.buttonsContainer {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+}
